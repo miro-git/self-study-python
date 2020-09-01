@@ -1,0 +1,6 @@
+print("-- String attributes --")
+print(dir(str))
+print("-- List attributes --")
+print(dir(list))
+print("-- Dict attributes --")
+print(dir(dict))
